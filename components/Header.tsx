@@ -61,7 +61,6 @@ const Header: React.FC<HeaderProps> = (
                         <div>
                             <Button
                                 onClick={() => {
-
                                 }}
                                 className='bg-transparent text-neutral-300 font-medium'>
                                 Sign Up
